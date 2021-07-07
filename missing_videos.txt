@@ -1,0 +1,206 @@
+Bakmak
+https://tidsozluk.ailevecalisma.gov.tr/tr/Bakmak?d=0013 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0013/degiske/13-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 606). Other element would receive the click: <img class="gridda imr_0" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_01.jpg" alt="5">
+
+Bitmek
+https://tidsozluk.ailevecalisma.gov.tr/tr/Bitmek%20?d=0030 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0030/degiske/30-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 575). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_05.jpg" alt="">
+
+Boş
+https://tidsozluk.ailevecalisma.gov.tr/tr/Bo%C5%9F?d=0140 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0140/degiske/140-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 606). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_02.jpg" alt="">
+
+Büyümek
+https://tidsozluk.ailevecalisma.gov.tr/tr/B%C3%BCy%C3%BCmek?d=0153 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0153/degiske/153-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 575). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_02.jpg" alt="5,4">
+
+Bilgisayar
+https://tidsozluk.ailevecalisma.gov.tr/tr/Bilgisayar?d=0193 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0193/degiske/193-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (819, 510). Other element would receive the click: <img class="gridda imr_1" id="grd_9" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_03.jpg" alt="5">
+
+Belediye
+https://tidsozluk.ailevecalisma.gov.tr/tr/Belediye?d=0264 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0264/degiske/264-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (819, 510). Other element would receive the click: <img class="gridda imr_1" id="grd_9" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_01.jpg" alt="">
+
+Bölge
+https://tidsozluk.ailevecalisma.gov.tr/tr/B%C3%B6lge%20?d=0526 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0526/degiske/526-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (734, 516). Other element would receive the click: <img class="gridda imr_1" id="grd_8" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_01.jpg" alt="">
+
+Bayrak
+https://tidsozluk.ailevecalisma.gov.tr/tr/Bayrak?d=0637 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0637/degiske/637-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (819, 510). Other element would receive the click: <img class="gridda imr_1" id="grd_9" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_03.jpg" alt="5,4">
+
+Buyurmak
+https://tidsozluk.ailevecalisma.gov.tr/tr/Buyurmak%20?d=0776 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0776/degiske/776-03_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (819, 575). Other element would receive the click: <img class="gridda imr_1" id="grd_25" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_04.jpg" alt="5">
+
+Büyütmek
+https://tidsozluk.ailevecalisma.gov.tr/tr/B%C3%BCy%C3%BCtmek%20?d=0777 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0777/degiske/777-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 575). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_05.jpg" alt="">
+
+Basit
+https://tidsozluk.ailevecalisma.gov.tr/tr/Basit?d=0833 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0833/degiske/833-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 510). Other element would receive the click: <img class="gridda imr_0" id="grd_7" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_03.jpg" alt="">
+
+Banka
+https://tidsozluk.ailevecalisma.gov.tr/tr/Banka?d=0875 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0875/degiske/875-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (819, 510). Other element would receive the click: <img class="gridda imr_1" id="grd_9" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_01.jpg" alt="5,4">
+
+Bozulmak
+https://tidsozluk.ailevecalisma.gov.tr/tr/Bozulmak%20?d=0879 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0879/degiske/879-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (819, 524). Other element would receive the click: <img class="gridda imr_1" id="grd_9" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_01.jpg" alt="5,4">
+
+Bakkal
+https://tidsozluk.ailevecalisma.gov.tr/tr/Bakkal%20?d=0922 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0922/degiske/922-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 575). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_03.jpg" alt="5,4">
+
+Başarısız
+https://tidsozluk.ailevecalisma.gov.tr/tr/Ba%C5%9Far%C4%B1s%C4%B1z?d=0971 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0971/degiske/971-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 575). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_03.jpg" alt="5">
+
+Basketbol
+https://tidsozluk.ailevecalisma.gov.tr/tr/Basketbol?d=1142 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1142/degiske/1142-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (819, 510). Other element would receive the click: <img class="gridda imr_1" id="grd_9" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_03.jpg" alt="5,4">
+
+Bal
+https://tidsozluk.ailevecalisma.gov.tr/tr/Bal?d=1215 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1215/degiske/1215-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (819, 510). Other element would receive the click: <img class="gridda imr_1" id="grd_9" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_02.jpg" alt="5,4,3">
+
+Boyamak
+https://tidsozluk.ailevecalisma.gov.tr/tr/Boyamak?d=1221 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1221/degiske/1221-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 575). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_04.jpg" alt="">
+
+Bitirmek
+https://tidsozluk.ailevecalisma.gov.tr/tr/Bitirmek?d=1312 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1312/degiske/1312-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 601). Other element would receive the click: <img class="gridda imr_0" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_01.jpg" alt="">
+
+Bahşiş
+https://tidsozluk.ailevecalisma.gov.tr/tr/Bah%C5%9Fi%C5%9F?d=1512 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1512/degiske/1512-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 575). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_02.jpg" alt="5">
+
+Boru
+https://tidsozluk.ailevecalisma.gov.tr/tr/Boru?d=1519 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1519/degiske/1519-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 601). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_01.jpg" a
+
+Bulut
+https://tidsozluk.ailevecalisma.gov.tr/tr/Bulut?d=1704 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1704/degiske/1704-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (734, 510). Other element would receive the click: <img class="gridda imr_1" id="grd_8" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_05.jpg" alt="5,4">
+
+Büyü
+https://tidsozluk.ailevecalisma.gov.tr/tr/B%C3%BCy%C3%BC?d=1951 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1951/degiske/1951-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 606). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_05.jpg" alt="5,4">
+
+Büyüme
+https://tidsozluk.ailevecalisma.gov.tr/tr/B%C3%BCy%C3%BCme?d=1952 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1952/degiske/1952-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 601). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_05.jpg" alt="">
+
+Cam
+https://tidsozluk.ailevecalisma.gov.tr/tr/Cam?d=0835 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0835/degiske/835-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 575). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_03.jpg" alt="5">
+
+Çıkarmak
+https://tidsozluk.ailevecalisma.gov.tr/tr/%C3%87%C4%B1karmak%20?d=0411 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0411/degiske/411-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 575). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_03.jpg" alt="5,4">
+
+Çiğ köfte
+https://tidsozluk.ailevecalisma.gov.tr/tr/%C3%87i%C4%9F%20k%C3%B6fte?d=0468 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0468/degiske/468-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (819, 510). Other element would receive the click: <img class="gridda imr_1" id="grd_9" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_04.jpg" alt="5">
+
+Çevirmek
+https://tidsozluk.ailevecalisma.gov.tr/tr/%C3%87evirmek?d=0696 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0696/degiske/696-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 575). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_05.jpg" alt="">
+
+Çekinmek
+https://tidsozluk.ailevecalisma.gov.tr/tr/%C3%87ekinmek?d=0803 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0803/degiske/803-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (819, 510). Other element would receive the click: <img class="gridda imr_0" id="grd_9" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_05.jpg" alt="5">
+
+Çekilmek
+https://tidsozluk.ailevecalisma.gov.tr/tr/%C3%87ekilmek?d=1023 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1023/degiske/1023-02_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (819, 524). Other element would receive the click: <img class="gridda imr_1" id="grd_9" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_05.jpg" alt="5,4">
+
+Çaresiz
+https://tidsozluk.ailevecalisma.gov.tr/tr/%C3%87aresiz?d=1314 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1314/degiske/1314-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 575). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_02.jpg" alt="5,4">
+
+Çevre
+https://tidsozluk.ailevecalisma.gov.tr/tr/%C3%87evre?d=1316 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1316/degiske/1316-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (734, 504). Other element would receive the click: <img class="gridda imr_1" id="grd_8" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_03.jpg" alt="5,4">
+
+Çürümek
+https://tidsozluk.ailevecalisma.gov.tr/tr/%C3%87%C3%BCr%C3%BCmek?d=1721 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1721/degiske/1721-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (734, 510). Other element would receive the click: <img class="gridda imr_1" id="grd_8" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_02.jpg" alt="5">
+
+Değil
+https://tidsozluk.ailevecalisma.gov.tr/tr/De%C4%9Fil?d=0052 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0052/degiske/52-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (819, 510). Other element would receive the click: <img class="gridda imr_1" id="grd_9" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_04.jpg" alt="5,4,3">
+
+Düşmek
+https://tidsozluk.ailevecalisma.gov.tr/tr/D%C3%BC%C5%9Fmek?d=0285 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0285/degiske/285-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 575). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_04.jpg" alt="5,4">
+
+Dönmek
+https://tidsozluk.ailevecalisma.gov.tr/tr/D%C3%B6nmek?d=0495 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0495/degiske/495-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 575). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_05.jpg" alt="5">
+
+Diploma
+https://tidsozluk.ailevecalisma.gov.tr/tr/Diploma%20?d=0556 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0556/degiske/556-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 542). Other element would receive the click: <img class="gridda imr_1" id="grd_7" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_01.jpg" alt="5,4">
+
+Değişik
+https://tidsozluk.ailevecalisma.gov.tr/tr/De%C4%9Fi%C5%9Fik%20?d=0697 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0697/degiske/697-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (734, 575). Other element would receive the click: <img class="gridda imr_1" id="grd_24" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_03.jpg" alt="5,4,3">
+
+Değiştirmek
+https://tidsozluk.ailevecalisma.gov.tr/tr/De%C4%9Fi%C5%9Ftirmek?d=0808 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0808/degiske/808-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (819, 575). Other element would receive the click: <img class="gridda imr_1" id="grd_25" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_05.jpg" alt="">
+
+Dikmek
+https://tidsozluk.ailevecalisma.gov.tr/tr/Dikmek?d=0882 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0882/degiske/882-02_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (819, 601). Other element would receive the click: <img class="gridda imr_1" id="grd_25" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_01.jpg" alt="5">
+
+Demir
+https://tidsozluk.ailevecalisma.gov.tr/tr/Demir?d=1028 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1028/degiske/1028-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (819, 510). Other element would receive the click: <img class="gridda imr_1" id="grd_9" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_05.jpg" alt="5,4">
+
+Dizüstü Bilgisayar, Laptop
+https://tidsozluk.ailevecalisma.gov.tr/tr/Diz%C3%BCst%C3%BC%20Bilgisayar,%20Laptop?d=1031 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1031/degiske/1031-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (734, 503). Other element would receive the click: <img class="gridda imr_0" id="grd_8" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_03.jpg" alt="5">
+
+Dağıtmak
+https://tidsozluk.ailevecalisma.gov.tr/tr/Da%C4%9F%C4%B1tmak?d=1081 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1081/degiske/1081-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 606). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_04.jpg" alt="5,4">
+
+Dikkat etmek
+https://tidsozluk.ailevecalisma.gov.tr/tr/Dikkat%20etmek?d=1082 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1082/degiske/1082-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (734, 524). Other element would receive the click: <img class="gridda imr_1" id="grd_8" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_01.jpg" alt="5,4">
+
+Düğme
+https://tidsozluk.ailevecalisma.gov.tr/tr/D%C3%BC%C4%9Fme?d=1233 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1233/degiske/1233-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 601). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_04.jpg" alt="5,4,3">
+
+Deri
+https://tidsozluk.ailevecalisma.gov.tr/tr/Deri?d=1319 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1319/degiske/1319-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 601). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_04.jpg" alt="5">
+
+Derin
+https://tidsozluk.ailevecalisma.gov.tr/tr/Derin?d=1538 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1538/degiske/1538-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 601). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_02.jpg" alt="">
+
+Dolap
+https://tidsozluk.ailevecalisma.gov.tr/tr/Dolap?d=1618 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1618/degiske/1618-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (734, 510). Other element would receive the click: <img class="gridda imr_1" id="grd_8" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_03.jpg" alt="5,4">
+
+Durdurmak
+https://tidsozluk.ailevecalisma.gov.tr/tr/Durdurmak?d=1733 linkinde bir sıkıntı oluştu!
+Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1733/degiske/1733-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (819, 504). Other element would receive the click: <img class="gridda imr_1" id="grd_9" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_02.jpg" alt="5,4">
+
+
+
+
+
+
+
+
+
+[13232:1220:0708/011611.763:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+
