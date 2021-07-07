@@ -1,3 +1,5 @@
+For B,C,Ç,D
+
 Bakmak
 https://tidsozluk.ailevecalisma.gov.tr/tr/Bakmak?d=0013 linkinde bir sıkıntı oluştu!
 Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0013/degiske/13-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 606). Other element would receive the click: <img class="gridda imr_0" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_01.jpg" alt="5">
@@ -94,6 +96,8 @@ Büyüme
 https://tidsozluk.ailevecalisma.gov.tr/tr/B%C3%BCy%C3%BCme?d=1952 linkinde bir sıkıntı oluştu!
 Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1952/degiske/1952-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 601). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_05.jpg" alt="">
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Cam
 https://tidsozluk.ailevecalisma.gov.tr/tr/Cam?d=0835 linkinde bir sıkıntı oluştu!
 Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/0835/degiske/835-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (648, 575). Other element would receive the click: <img class="gridda imr_1" id="grd_23" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_03.jpg" alt="5">
@@ -129,6 +133,8 @@ Exception : Message: element click intercepted: Element <i class="fa fa-expand f
 Çürümek
 https://tidsozluk.ailevecalisma.gov.tr/tr/%C3%87%C3%BCr%C3%BCmek?d=1721 linkinde bir sıkıntı oluştu!
 Exception : Message: element click intercepted: Element <i class="fa fa-expand fa-lg vid_modal" data-w="810" data-h="540" data-target="/vidz_proc/1721/degiske/1721-01_cr_0.5.mp4" aria-hidden="true"></i> is not clickable at point (734, 510). Other element would receive the click: <img class="gridda imr_1" id="grd_8" style="width:81px;height:54px;" src="/imgz/v1/vid_thumbz/out_02.jpg" alt="5">
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Değil
 https://tidsozluk.ailevecalisma.gov.tr/tr/De%C4%9Fil?d=0052 linkinde bir sıkıntı oluştu!
