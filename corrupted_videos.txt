@@ -1,4 +1,4 @@
-For B,C,Ç,D and E
+For B, C, Ç, D, E and F
 
 Başarmak 2
 Başka 1
@@ -11,3 +11,5 @@ Bira 2
 Cümle 1
 
 Çarpmak 2
+
+Futbol 2
