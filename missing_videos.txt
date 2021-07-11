@@ -270,7 +270,7 @@ Exception : Message: element click intercepted: Element <i class="fa fa-expand f
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-For G, H and İ
+For G, H, İ, K, L, M, N, O, Ö, P, R, S, Ş and T
 
 Geveze 2
 Girmek 2
@@ -278,11 +278,50 @@ Görüntü 1
 Göstermek 2
 Gün 2
 
-
 Hedef 2
 Her 1
 Heykel 2
 Hoca 2
 
 İdare 2
+İyileşmek 1
 
+Kart 3
+Kılıç 2
+Kişi 2
+Konuşmak 2
+Koymak 1
+Köfte 2
+
+Logo 1
+Logo 2
+
+Mahsus 1
+Mesaj atmak 2
+Mesaj çekmek 2
+Mesaj yollamak 2
+Mobilya 2
+Müzik 3
+
+Normal 3
+
+Ömür 1
+
+Park 2
+
+Rahat 3
+
+Saçma 2
+Seçmek 1
+Sert 2
+Servis 1
+Sonra 2
+Soymak 2
+
+Şikayet 2
+
+Tablet 2
+Tata 2
+Terlemek 2
+Tip 2
+Tümce 1
