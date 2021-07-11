@@ -268,3 +268,21 @@ Exception : Message: element click intercepted: Element <i class="fa fa-expand f
 
 [13232:1220:0708/011611.763:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+For G, H and İ
+
+Geveze 2
+Girmek 2
+Görüntü 1
+Göstermek 2
+Gün 2
+
+
+Hedef 2
+Her 1
+Heykel 2
+Hoca 2
+
+İdare 2
+
