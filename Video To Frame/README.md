@@ -1,5 +1,3 @@
-"""
-
 Required File Layout :
 
     - gesture_folder
@@ -22,10 +20,6 @@ Output File Structure :
             ...
         - b
         ...   
-        
-"""
-
-"""
 
 How the file works :
 
@@ -35,5 +29,3 @@ How the file works :
 
         # In case there is a problem with your library versions
         python video-to-frame.py gesture_folder target_folder
-
-"""
