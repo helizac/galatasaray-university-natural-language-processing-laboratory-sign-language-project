@@ -3,7 +3,7 @@
 Start date of research : July 2021
 
 ![image](https://drive.google.com/uc?export=view&id=1sYrSbEDMDgOEOSinNmONQaht8BbPkJru)
-> Galatasaray University(https://www.gsu.edu.tr/)
+> [Galatasaray University](https://www.gsu.edu.tr/)
 
 Contributors :
     B
