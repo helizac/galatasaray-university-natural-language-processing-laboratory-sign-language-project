@@ -6,7 +6,7 @@ Start date of research : July 2021
 > Galatasaray University
 
 Contributors :
-  
+    B
   Bengü Yurdakul
   Beste Şengül
   Burak Parlak
